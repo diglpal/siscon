@@ -1,14 +1,14 @@
 # siscon
 
-Software solution to manage information from the network of schools in Galicia and perform connection checks on the school's network devices.
+Una solución de software diseñada para gestionar la información de la red de los centros educativos de Galicia y comprobar el estado de la misma con pruebas de conexión.
 
-  • Store information about schools and their network.
+  • Guardar información sobre los centros y su red.
   
-  • Fast network status check.
+  • Comprobación rápida del estado de la red.
   
-  • GLPI integration.
+  • Integración con GLPI.
   
-  • User management.
+  • Gestión de usuarios.
 
 ![image](https://github.com/diglpal/siscon/assets/42392669/839bffe8-93fe-4ef2-85f2-1319fe731e2a)
 
