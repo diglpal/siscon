@@ -3,8 +3,11 @@
 Software solution to manage information from the network of educational centers in Galicia and perform connection checks on the center's electronics.
 
   • Store information about schools and their network.
+  
   • Fast network status check.
+  
   • GLPI integration.
+  
   • User management.
 
 ![image](https://github.com/diglpal/siscon/assets/42392669/839bffe8-93fe-4ef2-85f2-1319fe731e2a)
