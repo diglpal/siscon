@@ -1,0 +1,8 @@
+*.ods
+*.csv
+*.pdf
+*.ods#
+*.xml
+*.txt
+__pycache__
+config.py
