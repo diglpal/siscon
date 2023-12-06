@@ -265,7 +265,11 @@ export default function Home() {
 						</div>
 					</div>
 					<div className="mt-auto w-fit">
-						<a href="" className="flex items-center gap-x-1">
+						<a
+							href="https://github.com/diglpal"
+							target="_blank"
+							className="flex items-center gap-x-1"
+						>
 							<div>
 								<GithubIcon height={16} width={16} />
 							</div>
