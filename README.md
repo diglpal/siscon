@@ -1,6 +1,6 @@
 # siscon
 
-Software solution to manage information from the network of educational centers in Galicia and perform connection checks on the center's electronics.
+Software solution to manage information from the network of schools in Galicia and perform connection checks on the school's network devices.
 
   • Store information about schools and their network.
   
